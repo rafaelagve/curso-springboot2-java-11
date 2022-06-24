@@ -2,7 +2,7 @@
 
 Projeto de aplicação web service criado no curso Java Completo (Nelio Alves, UDEMY).
 
-Este projeto consiste numa aplicação associando Cliente / Produto / Pedido / Pagamento utilizando SpringBoot Java e JPA/Hibernate.
+Este projeto é numa aplicação que associa Cliente / Produto / Pedido / Pagamento, utilizando SpringBoot Java e JPA/Hibernate.
 Consiste em:
   - implementação de um modelo de domínio de camadas lógicas (Resource, Service e Repository); 
   - configuração de um banco de dados de teste (H2);
